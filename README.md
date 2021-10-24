@@ -12,6 +12,14 @@ three of the genre-defining classics.
 
 This repository serves as a base for discussions and project management.
 
+## Code of Conduct
+
+Our [Code of Conduct](.github/CODE_OF_CONDUCT.md) is adapted from the
+[Contributor Covenant](https://www.contributor-covenant.org/version/2/1/code_of_conduct.html),
+version 2.1.
+
+By participating in this project you agree to abide by its terms.
+
 ## Disclaimer
 
 Trilogy Multiplayer is not affiliated with or endorsed by Rockstar Games,
